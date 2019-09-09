@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Follow this link to see a hosted version https://raymonds-calculator.herokuapp.com/
+
 ## How To Start
 
 * First you download and install node
